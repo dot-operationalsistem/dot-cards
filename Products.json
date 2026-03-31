@@ -1,6 +1,6 @@
 [{
   "name":"Bom Jesus Ciencias",
-  "image":"https://loja.bomjesuseditora.com.br/api/thumbnail/cHJvZHV0b3M=/ciencias-7-ano-1_1762191494709176219140785.webp",
+  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/ciencias-7-ano-1_1762191494709176219140785.webp?raw=true",
   "point":"10",
   "cost":"30",
   "type":"Education",
@@ -8,7 +8,7 @@
 },
 {
   "name":"Bom Jesus Historia",
-  "image":"https://loja.bomjesuseditora.com.br/api/thumbnail/cHJvZHV0b3M=/historia-7ano_1761567171125176156708785.webp",
+  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/historia-7ano_1761567171125176156708785.webp?raw=true",
   "point":"10",
   "cost":"30",
   "type":"Education",
@@ -16,7 +16,7 @@
 },
 {
   "name":"Bom Jesus Filosofia",
-  "image":"https://loja.bomjesuseditora.com.br/api/thumbnail/cHJvZHV0b3M=/filosofia-volume-3_1761564814216176156473085.webp",
+  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/filosofia-volume-3_1761564814216176156473085.webp?raw=true",
   "point":"10",
   "cost":"30",
   "type":"Education",
@@ -24,7 +24,7 @@
 },
 {
   "name":"Bom Jesus Geografia",
-  "image":"https://loja.bomjesuseditora.com.br/api/thumbnail/cHJvZHV0b3M=/geografia-7-ano_1762191887928176219180085.webp",
+  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/geografia-7-ano_1762191887928176219180085.webp?raw=true",
   "point":"10",
   "cost":"30",
   "type":"Education",
