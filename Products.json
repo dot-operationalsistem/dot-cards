@@ -1,64 +1,24 @@
 [{
-  "name":"Bom Jesus Ciencias 7 Ano",
-  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/ciencias-7-ano-1_1762191494709176219140785.webp?raw=true",
+  "name":"Test product 1",
+  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/test_product_1.png?raw=true",
   "point":"10",
-  "cost":"30",
-  "type":"Education",
-  "organization":"Bom Jesus"
+  "cost":"20",
+  "type":"Test",
+  "organization":"Bernardo Sandrini"
 },
 {
-  "name":"Bom Jesus Ciencias 6 Ano",
-  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/ciencias-6-ano-1_1762191577606176219149185.webp?raw=true",
+  "name":"Test product 2",
+  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/test_product_2.png?raw=true",
   "point":"10",
-  "cost":"30",
-  "type":"Education",
-  "organization":"Bom Jesus"
+  "cost":"20",
+  "type":"Test",
+  "organization":"Bernardo Sandrini"
 },
 {
-  "name":"Bom Jesus Historia 7 Ano",
-  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/historia-7ano_1761567171125176156708785.webp?raw=true",
+  "name":"Test product 3",
+  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/test_product_3.png?raw=true",
   "point":"10",
-  "cost":"30",
-  "type":"Education",
-  "organization":"Bom Jesus"
-},
-{
-  "name":"Bom Jesus Historia 6 Ano",
-  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/historia-6-ano_1761567108732176156702485.webp?raw=true",
-  "point":"10",
-  "cost":"30",
-  "type":"Education",
-  "organization":"Bom Jesus"
-},
-{
-  "name":"Bom Jesus Filosofia 7 Ano",
-  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/filosofia-volume-3_1761564814216176156473085.webp?raw=true",
-  "point":"10",
-  "cost":"30",
-  "type":"Education",
-  "organization":"Bom Jesus"
-},
-{
-  "name":"Bom Jesus Filosofia 6 Ano",
-  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/filosofia-vol-2_1761566361093176156627785.webp?raw=true",
-  "point":"10",
-  "cost":"30",
-  "type":"Education",
-  "organization":"Bom Jesus"
-},
-{
-  "name":"Bom Jesus Geografia 7 Ano",
-  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/geografia-7-ano_1762191887928176219180085.webp?raw=true",
-  "point":"10",
-  "cost":"30",
-  "type":"Education",
-  "organization":"Bom Jesus"
-},
-{
-  "name":"Bom Jesus Geografia 6 Ano",
-  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/geografia-6-ano-1_1762191835694176219174885.webp?raw=true",
-  "point":"10",
-  "cost":"30",
-  "type":"Education",
-  "organization":"Bom Jesus"
+  "cost":"20",
+  "type":"Test",
+  "organization":"Bernardo Sandrini"
 }]
