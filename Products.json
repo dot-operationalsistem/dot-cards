@@ -21,4 +21,12 @@
   "cost":"20",
   "type":"Test",
   "organization":"Bernardo Sandrini"
+},
+{
+  "name":"Test product 4",
+  "image":"https://github.com/dot-operationalsistem/dot-cards/blob/main/test_product_4.png?raw=true",
+  "point":"10",
+  "cost":"20",
+  "type":"Test",
+  "organization":"Bernardo Sandrini"
 }]
